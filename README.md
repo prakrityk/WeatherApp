@@ -1,3 +1,6 @@
+Based on [How To Make Weather App Using React JS 2024 | Weather API React Project Tutorial
+](https://www.youtube.com/watch?v=zs1Nq2s_uy4&t=2891s) by [GreatStack] (https://www.youtube.com/@GreatStackDev).
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
